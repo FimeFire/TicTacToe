@@ -1,0 +1,15 @@
+.base {
+	width: 300px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+.base input {
+	margin: 10px;
+	border-radius: 10px;
+	border: 1px solid black;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+}
+
